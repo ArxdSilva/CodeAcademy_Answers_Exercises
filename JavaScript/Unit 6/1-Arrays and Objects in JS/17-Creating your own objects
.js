@@ -1,0 +1,3 @@
+var myOwnObject = {
+    property: 'house'
+}

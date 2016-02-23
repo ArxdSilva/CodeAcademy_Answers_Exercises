@@ -1,0 +1,13 @@
+p {
+    font-family: Garamond;
+    font-weight:bold;
+}
+div p {
+    color: #7AC5CD;
+    font-weight:normal;
+}
+div ul li p {
+    font-weight:normal;
+    color: #000000;
+    text-decoration: underline;
+}chsh -s /bin/zsh

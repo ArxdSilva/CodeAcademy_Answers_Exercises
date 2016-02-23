@@ -1,0 +1,10 @@
+/*Add your CSS below!*/
+a:hover {
+    text-decoration:none;
+}
+a:nth-child(3) {
+    color:#FFC125;
+}
+a:first-child {
+    color:#CDBE70;
+}
